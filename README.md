@@ -1,1 +1,1 @@
-These projects have been developed during the $'\textit{Artificial Neural Network and Deep Learning}'$ mid-term competition (November and December 2023). Final score for the two projects is \texttt{10/10}.
+These projects have been developed during the $'\textit{Artificial Neural Network and Deep Learning}'$ mid-term competition (November and December 2023). Final score for the two projects is $\texttt{10/10}$.
